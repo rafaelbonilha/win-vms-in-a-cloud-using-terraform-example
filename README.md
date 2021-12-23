@@ -12,6 +12,6 @@ Máquinas com grande quantidade de CPU ou Memória tem custos mais elevados. O u
 
 # Outro ponto importante: No Free Trial da Google Cloud, não é possível usar os créditos para criar máquinas Windows.
 
-# Pesquise sobre o uso de arquivos .tfvars e recursos como google_compute_instance_group,google_compute_instance_group_manager
+# Pesquise sobre o uso de arquivos .tfvars e recursos como google_compute_instance_group
 
 Usar arquivos .tfvars e recursos como google_compute_instance_group, serão de grande utilidade para uma solução mais elegante e funcional. Estes arquivos são exemplos de como criar, não sendo recomendados para o ambiente de produção.
